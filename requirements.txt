@@ -1,0 +1,6 @@
+torch
+jsonlines
+nltk
+transformers==4.30.2
+datasets==2.13.1
+faiss-cpu==1.7.4
